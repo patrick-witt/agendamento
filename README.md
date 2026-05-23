@@ -3,8 +3,6 @@
 Sistema completo de agendamento para salões e estúdios de beleza, com fluxo público para clientes e painel administrativo.
 Desenvolvido como portfólio profissional por **Patrick Witt**.
 
-![Preview](./preview.png)
-
 ---
 
 ## ✨ Funcionalidades
